@@ -1,4 +1,4 @@
-# Projeto de Estudo em Flask - DIO
+# Projeto de Estudo em Flask - DIO (em andamento)
 
 Este repositório contém um projeto desenvolvido com **Flask**, parte do curso de Formação Python da plataforma [Digital Innovation One (DIO)](https://www.dio.me). O objetivo principal é explorar os fundamentos da construção de APIs em Python, incluindo a integração com bancos de dados e a migração de esquemas. O foco deste projeto é permitir que quem estuda Python por hobby ou paixão possa aprender e experimentar recursos práticos em um ambiente controlado.
 
